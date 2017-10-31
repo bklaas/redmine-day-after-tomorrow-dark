@@ -327,4 +327,7 @@ table.list:not(.odd-even) tbody tr:nth-child(even), .even, #issue-changesets div
 tr.even.priority-high3, tr.odd.priority-high3, tr.even.priority-highest, tr.odd.priority-highest {
     background-color: #373b41;
 }
+#wrapper {
+    background: none;
+}
 }
