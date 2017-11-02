@@ -18,10 +18,6 @@ img.gravatar {
     background: #282a2e;
     border-color: #282a2e;
 }
-div.flash.notice,
-#flash_notice {
-    background: #cc6666;
-}
 div.wiki pre {
     background-color: #282a2e;
     border-color: #373b41;
