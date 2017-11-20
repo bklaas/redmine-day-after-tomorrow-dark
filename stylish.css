@@ -326,4 +326,6 @@ tr.even.priority-high3, tr.odd.priority-high3, tr.even.priority-highest, tr.odd.
 #wrapper {
     background: none;
 }
+div#version-summary {
+    background-color: #373b41;
 }
