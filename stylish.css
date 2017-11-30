@@ -1,6 +1,5 @@
 @-moz-document url-prefix("http://www.redmine.org/")
 {
-
 /* Issues */
 
 div.issue {
@@ -320,7 +319,7 @@ table.list:not(.odd-even) tbody tr:nth-child(odd), .odd, #issue-changesets div.c
 table.list:not(.odd-even) tbody tr:nth-child(even), .even, #issue-changesets div.changeset:nth-child(even) {
     background-color: #373b41;
 }
-tr.even.priority-high3, tr.odd.priority-high3, tr.even.priority-highest, tr.odd.priority-highest {
+tr.even.priority-high3, tr.odd.priority-high3, tr.even.priority-highest, tr.odd.priority-highest, tr.even.priority-high2, tr.odd.priority-high2 {
     background-color: #373b41;
 }
 #wrapper {
@@ -328,4 +327,6 @@ tr.even.priority-high3, tr.odd.priority-high3, tr.even.priority-highest, tr.odd.
 }
 div#version-summary {
     background-color: #373b41;
+}
+
 }
